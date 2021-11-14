@@ -11,11 +11,11 @@ Detecting traffic lights and the distance to them, using image processing and ma
 ![image](https://user-images.githubusercontent.com/67588396/141173307-1083cfc3-602f-4631-9d8c-3b46aeb893a6.png)
 
 ## Libraries/Technologies Used
-python 3.7
-Deep Learning
-Tensorflow, numpy, matplotlib, scipy and etc.
+* python 3.7
+* Deep Learning
+* Tensorflow, numpy, matplotlib, scipy and etc.
 
 ## Special Thanks
-Mobileye mentors
-Elevation staff
+* Mobileye mentors
+* Elevation staff
 
