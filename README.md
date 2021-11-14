@@ -15,7 +15,12 @@ Detecting traffic lights and the distance to them, using image processing and ma
 * Deep Learning
 * Tensorflow, numpy, matplotlib, scipy and etc.
 
+## Team Members
+* Dvora Tenenbaum
+* Shoshana Fridman
+
 ## Special Thanks
 * Mobileye mentors
 * Elevation staff
+* Out team
 
